@@ -14,4 +14,4 @@ elif n1 < n2:
 elif n1 == n2:
     print('0')
 else:
-    print('The fuck ELSE???')
+    print('The fuck "ELSE"???')
